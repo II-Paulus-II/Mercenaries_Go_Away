@@ -1,0 +1,6 @@
+﻿
+mercenary_trait = {
+	type = status
+	
+	charisma = 1
+}
