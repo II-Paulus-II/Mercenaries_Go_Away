@@ -1,0 +1,20 @@
+[h1]Do you hate mercenaries?[/h1]
+
+Join the club.
+
+Now Updated for 2.0.3 - 18th March
+
+A minor upgrade.
+
+1. Character Interactions where you send a member of your family away as a merc now do not lose 5 martial but 1 charisma.
+
+[b]As Before[/b]
+
+2. Merc modifier is now correctly only 1 charisma, so that mercenary generals are no longer OP - it got changed from the trait.
+
+3. Much reduced numbers of mercenaries - only 1 per region. 
+
+Enjoy!
+
+GITHUB LINK
+https://github.com/II-Paulus-II/Mercenaries_Go_Away
