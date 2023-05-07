@@ -1,0 +1,5 @@
+﻿
+mercenary_captain = {
+	charisma = 1
+	ship_capture_chance = -1
+}
